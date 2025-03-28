@@ -38,7 +38,7 @@
       }
 
       /*imagem*/
-      .foto{
+      .foto img {
         width: 250px;
         height: 250px;
         border-radius: 50%;
@@ -46,7 +46,7 @@
         transition: 0.5s;
       }
 
-      .foto:hover {
+      .foto img:hover {
         box-shadow: 0 0 20px var(--cor-terciaria);
         cursor: pointer;
         transform: scale(1.05);
@@ -57,4 +57,22 @@
         font-weight: bold;
         color: var(--cor-terciaria);
       }
+
+      .redes-social{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 2rem;
+      }      
+
+      .redes-social img{
+        width: 30px;
+        transition: 0.5s;
+      }
+
+      .redes-social img:hover {
+        transform: scale(1.10);
+      }
+
       
