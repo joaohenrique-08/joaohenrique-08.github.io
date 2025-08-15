@@ -1,0 +1,17 @@
+<!-- 4. Crie um array de cores e use shift() para remover a primeira cor.
+5. Crie dois arrays de números e use concat() para uni-los em um único array.
+6. Crie um array de 6 elementos e use slice() para criar um novo array apenas com os 3 primeiros.
+7. Crie um array de 6 elementos e use splice() para remover os elementos da posição 2 até a posição 4.
+8. Crie um array de 5 números e use reverse() para inverter a ordem dos elementos.
+9. Crie um array de números e use map() para retornar um novo array com cada número multiplicado por 2.
+10. Crie um array de idades e use filter() para retornar apenas as idades maiores ou iguais a 18.
+11. Crie um array de números e use reduce() para calcular a soma de todos os elementos.
+12. Crie um array de palavras e use join() para transformá-las em uma única string separada por “-”.
+13. Crie um array de números e use sort() para ordená-los em ordem crescente.
+14. Crie um array de nomes e use includes() para verificar se um determinado nome existe no array.
+15. Crie um array de números e use find() para retornar o primeiro número maior que 50.
+16. Crie um array de números e use findIndex() para retornar o índice do primeiro número menor que 10.
+17. Crie um array de produtos e use forEach() para exibir cada elemento no console.
+18. Crie um array de números e use some() para verificar se existe algum número negativo.
+19. Crie um array de números e use every() para verificar se todos os números são positivos.
+20. Crie um array de frutas e use indexOf() para encontrar a posição de uma fruta específica. -->
