@@ -1,5 +1,5 @@
 body {
-    background-color: #555;
+    background: url(minha.jpg);
 
 }
 
@@ -38,4 +38,13 @@ h2 {
 #exibir-array {
     background-color: green;
     color: rgb(238, 238, 244);
+}
+
+#n{
+ font-size: 16px;
+ padding-inline: 8px;
+ padding-block: 4px;
+ text-align: center;
+ margin: auto;
+ outline: none;
 }

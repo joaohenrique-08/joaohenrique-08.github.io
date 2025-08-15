@@ -22,4 +22,30 @@ console.log(array);
 exibirarray.innerHTML = `Array: ${array} <br/> Tamanho do array: ${array.length}`;
 }
 
+function removerNumero(){
+    let input = document.querySelector('#n');
+    let n = parseInt(input.value);
+    let exibirarray = document.querySelector('#exibir-array');
+   
+
+    let remover = array.indexOf(n);
+
+    if (isNaN (n) ) {
+        alert('digite um número válido')
+        return;
+    }
+
+
+  array.splice(remover,1);
+
+
+input.value = '';
+
+console.log(array);
+    
+exibirarray.innerHTML = `Array: ${array} <br/> Tamanho do array: ${array.length}`;
+
+}
+
+
 
